@@ -1,0 +1,150 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    /* font-family: 'Kanit', sans-serif; */
+    font-family: 'Original Surfer', cursive;
+}
+
+
+.head {
+    font-size: 3rem;
+    font-weight: bold;
+    margin: 0px 0px 50px 170px;
+    color: #fff;
+}
+
+.right-slide {
+    background-color: #fb8b04;
+    height: 730px;
+}
+
+.left-slide {
+    background-color: #fff;
+}
+
+.login {
+    margin-top: 160px;
+    text-align: center;
+}
+
+.space {
+    margin: 20px;
+}
+
+.space-button {
+    margin: 20px 20px;
+}
+
+.forgot {
+    transition: .3s;
+    color: #fff;
+}
+
+.forgot:hover {
+    font-size: 17px;
+}
+
+#sign-in {
+    margin: 20px 10px;
+    border: none;
+    color: #fff;
+    transition: .3s;
+    background: #19a1dd;
+    text-transform: uppercase;
+}
+
+#sign-in:hover {
+    background: #44c3fa;
+    color: #fff;
+    cursor: pointer;
+}
+
+#create-acc {
+    margin: 20px 0px;
+    color: rgb(255, 255, 255);
+    border: 2px solid #ffffff;
+    transition: .3s;
+    background: #fb8b04;
+    text-transform: uppercase;
+}
+
+#create-acc:hover {
+    background: #19a1dd;
+    color: #fff;
+    cursor: pointer;
+    border: none;
+}
+
+.size-png {
+    width: 300px;
+    height: 300px;
+    display: flex;
+    margin: 120px 50px 20px 50px;
+}
+
+.setup {
+    text-align: center;
+    text-transform: uppercase;
+    font-weight: bold;
+}
+
+.setup h1 {
+    font-size: 35px;
+}
+
+.set {
+    margin-top: 80px;
+    font-size: 25px;
+    
+}
+
+.set2 {
+    margin-top: 80px;
+    font-size: 25px;
+}
+
+.space-regis {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+
+.fill-in {
+    margin: 120px;
+    font-size: 20px;
+}
+
+.check-radio {
+    align-items: center;
+}
+
+#save {
+    background: skyblue;
+    transition: .3s;
+    color: #fff;
+}
+
+#save:hover {
+    background: rgb(11, 174, 238);
+}
+
+#cancle {
+    background: rgb(219, 217, 217);
+    transition: .3s;
+}
+
+#cancle:hover {
+    background: rgb(105, 103, 103);
+    color: #fff;
+}
+
+.index{
+    margin: 20%;
+}
+
+.index p{
+    padding: 10px;
+    font-size: 3rem;
+    color: #fff;
+}
